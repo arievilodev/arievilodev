@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arievilodev/arievilodev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/arievilodev/arievilodev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ###
 
