@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">i am rafael oliveira and i develop some technology things.<br><br>📘1/10 in computer engineering at the federal university of ceara<br>🎓computer technician  at eeep prof luiza de teodoro vieira<br>🖥️ full-stack, game developer and a robotics enthusiast.<br>🎨 illustrator, writer and photographer/videomaker by hobby.<br><br>ce, brazil</p>
+<p align="left">i am rafael oliveira and i develop some technology things.<br><br>📘1/10 in computer engineering at the federal university of ceara<br>🎓computer technician  at eeep prof luiza de teodoro vieira<br>🖥️ full-stack, game developer and a robotics enthusiast<br>🎨 illustrator, writer and photographer/videomaker by hobby<br><br>ce, brazil</p>
 
 ###
 
